@@ -1,4 +1,4 @@
 --+
-Layout- slide
-Title- "Welcome to our second slide
+Layout: slide
+Title: "Welcome to our second slide
 --+
